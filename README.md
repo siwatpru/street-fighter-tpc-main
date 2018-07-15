@@ -1,6 +1,6 @@
 # ตบ แปะ ชาร์จ ตบ แปะ อะบู๊เก็ต
 
-Tob Pae Charge game from The Stupid Hackathon Bangkok #2
+Tob Pae Charge game from The Stupid Hackathon Thailand #2
 
 ![screenshot](https://raw.githubusercontent.com/siwatpru/street-fighter-tpc-main/master/screenshot.png)
 
